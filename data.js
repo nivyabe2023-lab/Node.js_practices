@@ -1,5 +1,5 @@
 const names = ['nive', 'munivesh'];
-const ages = [20, 25];
+const ages = [19,38 ];
 
 module.exports = {
     names,
