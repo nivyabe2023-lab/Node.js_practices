@@ -1,4 +1,4 @@
-const names = ['nive', 'sivani'];
+const names = ['nive', 'munivesh'];
 const ages = [20, 25];
 
 module.exports = {
